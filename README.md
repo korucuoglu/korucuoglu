@@ -45,9 +45,9 @@
 <div>
 <table>
   <tr width="100%">
-    <td width= 33% style="background-color:red">
+    <td width= 33%>
     <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/dotnet-core.png" width="100%"><br>
-    <a href="https://drive.google.com/file/d/12p4UyUdtLoz0vHDqmwl0z44jkVdyiprX/view" target="blank">Asp.Net Core</a>
+    <a href="https://drive.google.com/file/d/12p4UyUdtLoz0vHDqmwl0z44jkVdyiprX/view" target="_blank">Asp.Net Core</a>
     </td>
     <td width="33%">
     <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/patika.png" width="100%"><br>

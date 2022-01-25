@@ -1,8 +1,11 @@
-  <h5 align="center">
+  <h3 align="center">
     <code>
-      <a href="https://www.linkedin.com/in/abdullah-halit-korucuo%C4%9Flu-4578a219b/" target="blank" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/linkedin.svg"> LinkedIn</a>
+      <a href="https://www.linkedin.com/in/abdullah-halit-korucuo%C4%9Flu-4578a219b/" target="_blank" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/linkedin.svg"> LinkedIn</a>
     </code>
-  </h5>
+     <code>
+      <a href="https://twitter.com/Korucuoglu16" target="_blank" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/twitter.svg"> Twitter</a>
+    </code>
+  </h3>
 
   <br>
   <div align="center">
@@ -39,7 +42,9 @@
   </p>
   <br>
   <hr>
-  <h2 align="center">🔥 My Notes 🔥</h2>
+  <h1 align="center">🔥 My Notes 🔥</h1>
+
+  <p align="center">Training notes I listened to on Udemy and Youtube (in Turkish)</p>
 
 <code>
 <div>
@@ -47,7 +52,7 @@
   <tr width="100%">
     <td width= "33%">
     <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/dotnet-core.png" width="100%"><br>
-    <a href="https://drive.google.com/file/d/12p4UyUdtLoz0vHDqmwl0z44jkVdyiprX/view" target="_blank">Asp.Net Core</a>
+    <a href="https://drive.google.com/file/d/12p4UyUdtLoz0vHDqmwl0z44jkVdyiprX/view" target="_blank">Asp.Net Core</span></a>
     </td>
     <td width="33%">
     <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/patika.png" width="100%"><br>

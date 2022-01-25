@@ -1,9 +1,9 @@
   <h3 align="center">
     <code>
-      <a href="https://www.linkedin.com/in/abdullah-halit-korucuo%C4%9Flu-4578a219b/" target="_blank" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/linkedin.svg"> LinkedIn</a>
+      <a href="https://www.linkedin.com/in/halitkorucuoglu" target="_blank" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/linkedin.svg"> LinkedIn</a>
     </code>
      <code>
-      <a href="https://twitter.com/Korucuoglu16" target="_blank" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/twitter.png"> Twitter</a>
+      <a href="https://twitter.com/Korucuoglu16" target="_blank" title="Twitter Profile"><img width="22" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/twitter.png"> Twitter</a>
     </code>
   </h3>
 
@@ -13,7 +13,7 @@
     <p>🔬 I'm currently studying in Atatürk University Computer Programing</p>
     <p>💻 I love writing code and learn anythings about it
     </p>
-    <p>📚 I’m currently learning how to build Education Website with .Net Core and VueJS </p>
+    <p>📚 I’m currently learning Asp.Net Core with VueJS </p>
    <p>
     💬 Ask me anything about from <a href="https://github.com/korucuoglu/korucuoglu/issues" title="Issues">Here</a> </p>
   </div>
@@ -56,7 +56,7 @@
     </td>
     <td width="33%">
     <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/patika.png" width="100%"><br>
-    <a href="https://pbs.twimg.com/profile_images/1360317534172569614/sdir3Sab_400x400.jpg" target="blank">Asp.Net Core Patikası</a>
+    <a href="https://drive.google.com/file/d/19gfgNxv8EGWdkLs38_E8Po5fus9ImQqQ/view" target="blank">Asp.Net Core Patikası</a>
     </td>
     <td width="33%">
     <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/microservice.png" width="100%"><br>
@@ -70,7 +70,7 @@
     </td>
     <td width="33%">
     <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/redis.png" width="100%"><br>
-    <a href="https://drive.google.com/file/d/15PD9wrxOsnxXRaHbtoOwXP81i1GNbnEY/view" target="blank">Redis</a>
+    <a href="https://drive.google.com/file/d/15LJbO8GfH_89gzjCN11evwxOVylMtp71/view" target="blank">Redis</a>
     </td>
     <td width="33%">
     <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/rabbitmq.png" width="100%"><br>

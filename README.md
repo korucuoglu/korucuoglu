@@ -3,7 +3,7 @@
       <a href="https://www.linkedin.com/in/abdullah-halit-korucuo%C4%9Flu-4578a219b/" target="_blank" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/linkedin.svg"> LinkedIn</a>
     </code>
      <code>
-      <a href="https://twitter.com/Korucuoglu16" target="_blank" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/twitter.svg"> Twitter</a>
+      <a href="https://twitter.com/Korucuoglu16" target="_blank" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/twitter.png"> Twitter</a>
     </code>
   </h3>
 

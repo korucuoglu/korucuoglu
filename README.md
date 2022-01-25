@@ -45,21 +45,21 @@
 <div>
 <table>
   <tr width="100%">
-    <td width= 33%>
-    <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/dotnet-core.png" width="100%"><br>
+    <td width= "33%">
+    <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/dotnet-core.png" width="200px"><br>
     <a href="https://drive.google.com/file/d/12p4UyUdtLoz0vHDqmwl0z44jkVdyiprX/view" target="_blank">Asp.Net Core</a>
     </td>
     <td width="33%">
     <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/patika.png" width="100%"><br>
-    <a href="https://drive.google.com/file/d/19gfgNxv8EGWdkLs38_E8Po5fus9ImQqQ/view" target="blank">Asp.Net Core Patikası</a>
+    <a href="https://pbs.twimg.com/profile_images/1360317534172569614/sdir3Sab_400x400.jpg" target="blank">Asp.Net Core Patikası</a>
     </td>
-    <td width=33%>
-    <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/microservice.jpg" width="100%"><br>
+    <td width="33%">
+    <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/microservice.png" width="100%"><br>
     <a href="https://drive.google.com/file/d/18I9NpnZXm_IknSZye7BJm8P5zgupZPpa/view" target="blank">Microservice</a>
   </tr>
 
    <tr width="100%">
-    <td width= 33%>
+    <td width= "33%">
     <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/docker.png" width="100%"><br>
     <a href="https://drive.google.com/file/d/15PD9wrxOsnxXRaHbtoOwXP81i1GNbnEY/view" target="blank">Docker</a>
     </td>
@@ -67,27 +67,27 @@
     <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/redis.png" width="100%"><br>
     <a href="https://drive.google.com/file/d/15PD9wrxOsnxXRaHbtoOwXP81i1GNbnEY/view" target="blank">Redis</a>
     </td>
-    <td width=33%>
+    <td width="33%">
     <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/rabbitmq.png" width="100%"><br>
     <a href="https://drive.google.com/file/d/1RwmsyIuT3riC7sCovGcd827pK2-uNUVV/view" target="blank">RabbitMQ</a>
   </tr>
 
   <tr width="100%">
-    <td width= 33%>
+    <td width= "33%">
     <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/signalr.png" width="100%"><br>
     <a href="https://drive.google.com/file/d/1Bg3-tV4vMRJn4-u9slbLKHIJAP0gtM8b/view" target="blank">SignalR</a>
     </td>
     <td width="33%">
-    <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/unit-test.png" width="100%"><br>
+    <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/unit-test1.png" width="100%"><br>
     <a href="https://drive.google.com/file/d/1UjY5WV8qKcpcsgKMcaYjmqsCPy7boSgy/view" target="blank">Unit Test</a>
     </td>
-    <td width=33%>
+    <td width="33%">
     <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/identity-server.png" width="100%"><br>
     <a href="https://drive.google.com/file/d/12hZfDabcUWNzgJYAppVdTWUoeuDJOOl4/view" target="blank">Identity Server</a>
   </tr>
 
   <tr width="100%">
-    <td width= 33%>
+    <td width= "33%">
     <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/css.svg" width="100%"><br>
     <a href="https://drive.google.com/file/d/15agRhvRSZNx_dtfIPS5fLmiqls0T0s-m/view" target="blank">HTML-CSS</a>
     </td>
@@ -95,7 +95,7 @@
     <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/javascript.svg" width="100%"><br>
     <a href="https://drive.google.com/file/d/176f6H7Ls0CGqXQHX1mBtcs9u7EjfVd1r/view" target="blank">Javascript</a>
     </td>
-    <td width=33%>
+    <td width="33%">
     <img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/vue.png" width="100%"><br>
     <a href="https://drive.google.com/file/d/156xDOTzgkMl2JhuY-3pbnN6I9qJXo2aB/view" target="blank">Vue</a>
   </tr>

@@ -22,14 +22,34 @@
   <br>
   <p align="center">
      <code><img title="C#" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/c-sharp.png"></code>
-      <code><img title="Entity Framework" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/ef-core.png"></code><code><img title="Identity Server" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/identity-server.png"></code>
-      <code><img title="VueJs" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/vue.png"></code><code><img title="SignalR" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/signalr.png"></code>
-       <code><img title="MSSQL" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/mssql.png"></code>
-      <code><img title="Postgres" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/postgres.png"></code>
-    <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/javascript.svg"></code>
-    <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/html5.svg"></code>
-    <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/css.svg"></code>
-    <code><img title="Git" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/git-original.svg"></code>
-    <code><img title="JQuery" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/jquery-original.svg"></code>
+      <code><img title="Entity Framework" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/ef-core.png"></code>
+      <code><img title="Identity Server" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/dotnet-core.png"></code>
+      <code><img title="Identity Server" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/identity-server.png">
+      </code>
+      <code>
+      <img title="VueJs" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/vue.png"></code>
+      <code><img title="SignalR" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/signalr.png">
+      </code>
+       <code>
+       <img title="MSSQL" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/mssql.png">
+       </code>
+      <code>
+      <img title="Postgres" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/postgres.png">
+      </code>
+    <code
+    ><img title="Javascript" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/javascript.svg">
+    </code>
+    <code>
+    <img title="HTML5" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/html5.svg">
+    </code>
+    <code>
+    <img title="CSS" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/css.svg">
+    </code>
+    <code>
+    <img title="Git" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/git-original.svg">
+    </code>
+    <code>
+    <img title="JQuery" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/jquery-original.svg">
+    </code>
   </p>
   <hr>

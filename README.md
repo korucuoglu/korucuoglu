@@ -90,7 +90,7 @@
     </td>
     <td width="25%">
     <a href="https://drive.google.com/file/d/156xDOTzgkMl2JhuY-3pbnN6I9qJXo2aB/view" target="_blank"><img src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/vue.svg" width="100%"><a><br>
-    <a href="https://drive.google.com/file/d/156xDOTzgkMl2JhuY-3pbnN6I9qJXo2aB/view" target="blank">Vue</a>
+    <a href="https://drive.google.com/file/d/12pSvgvFmHRZjLnmANeOMbZzVORjnjpDF/view" target="blank">Vue</a>
   </tr>
 </table>
 

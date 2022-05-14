@@ -4,8 +4,6 @@
     <p>.Net Core ve Backend teknolojileri üzerinde çalışmalar yapıyorum.</p>
   </div>
 
-  <p align="center">Udemy vb. platformlar üzerinden aldığım derslerin notlarını paylaşmaktayım. </p>
-
 <div>
 <table align="center">
   <tr width="100%" align="center">

@@ -1,40 +1,8 @@
-  <h3 align="center">
-      <a href="https://www.linkedin.com/in/halitkorucuoglu" target="_blank" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/linkedin.svg"> LinkedIn</a>
-      <a href="https://twitter.com/Korucuoglu16" target="_blank" title="Twitter Profile"><img width="22" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/twitter.png"> Twitter</a>
-  </h3>
 
-  <br>
   <div align="center">
     <p>Merhaba, Ben Halit Korucuoğlu.</p>
     <p>.Net Core ve Backend teknolojileri üzerinde çalışmalar yapıyorum.</p>
-
   </div>
-
-  <hr>
-  <h1 align="center"><b>Kabiliyetlerim </b> </h1>
-  <br>
-  <p align="center">
-     <img title="C#" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/c-sharp.png">
-     <img title="Entity Framework" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/ef-core.png">
-     <img title=".Net Core" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/dotnet-core.svg">
-     <img title="Identity Server" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/identity.svg">
-     <img title="VueJs" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/vue.svg">
-     <img title="SignalR" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/signalr.svg">
-     <img title="MSSQL" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/mssql.png">
-     <img title="Postgres" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/postgres.png">
-     <img title="Redis" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/redis.svg">
-     <img title="Unit Test" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/test.svg">
-     <img title="RabbitMQ" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/rabbitmq.svg">
-     <img title="Javascript" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/javascript.svg">
-     <img title="HTML5" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/html5.svg">
-     <img title="CSS" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/css.svg">
-     <img title="Git" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/git.svg">
-     <img title="JQuery" height="25" src="https://raw.githubusercontent.com/korucuoglu/korucuoglu/main/images/jquery.svg">
-    
-  </p>
-  <br>
-  <hr>
-  <h1 align="center"><b>Notlarım</b></h1>
 
   <p align="center">Udemy vb. platformlar üzerinden aldığım derslerin notlarını paylaşmaktayım. </p>
 

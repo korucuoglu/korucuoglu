@@ -1,7 +1,7 @@
 
   <div align="center">
-    <p>Merhaba, Ben Halit Korucuoğlu.</p>
-    <p>.Net Core ve Backend teknolojileri üzerinde çalışmalar yapıyorum.</p>
+    <p>Merhaba, Ben Halit Korucuoğlu. Vue.JS, .Net ve Backend teknolojileri üzerinde çalışmalar yapıyorum.</p>
+    <p>Almış olduğum eğitim notlarıma aşağıdan ulaşabilirsiniz.</p>
   </div>
 
 <div>
